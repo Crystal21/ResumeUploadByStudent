@@ -3,7 +3,7 @@ Placement Management System
 
 This module is developed as a part of Placement Management System. 
 v1 contains file upload without any constraints and exception handling
-Refer to v2 which is the latest one.
+Refer to v3 which is the latest one.
 
 Steps to run the project :
 1. import project
